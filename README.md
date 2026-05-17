@@ -1,7 +1,7 @@
 # DeepCIRN: Spatiotemporal Residual Learning for Intersection Conflict Intensity Prediction
 
 <p align="center">
-  <img src="figures/DeepCIRN_overall_framework.jpeg" width="95%">
+  <img src="figures/DeepCIRN_overall_framework.png" width="95%">
 </p>
 
 <p align="center">
